@@ -17,3 +17,4 @@ Musings on Software Engineering
 * When functions can be returned as values from other functions, just like we return other primitive types and objects
 * When functions can be created inside other functions, just like local variables can be created inside other functions
 * When functions can be defined without giving them a name ( anonymous functions ), with the ability to define function literals just like integer literals
+* Immutable data structures are one of the cornerstones of functional programming. For example, String in Java is an immutable data structure. Any operation on the String object yields a new String object, without modifying the object in place.
