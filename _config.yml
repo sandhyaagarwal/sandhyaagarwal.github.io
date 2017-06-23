@@ -1,4 +1,4 @@
 name: Musings on Software Engineering
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 permalink: /blog/:year/:month/:day/:title
