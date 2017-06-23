@@ -1,6 +1,4 @@
 
-- [Functional Programming](#functional-programming)
-
 ## Functional Programming
 ### Elements of functional languages 
 ***
