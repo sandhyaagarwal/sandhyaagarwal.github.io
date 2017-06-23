@@ -1,2 +1,4 @@
 name: Musings on Software Engineering
 theme: jekyll-theme-slate
+
+permalink: /blog/:year/:month/:day/:title
