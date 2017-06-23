@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 
 title: [Musings on Software Engineering]
-description: [My ramblings on Software Engineering]
 
 permalink: /blog/:year/:month/:day/:title
