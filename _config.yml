@@ -1,5 +1,15 @@
-theme: jekyll-theme-minimal
-
-title: [Musings on Software Engineering]
-
-permalink: /blog/:year/:month/:day/:title
+# Site Settings
+title: Musings on Software Engineering
+email: write2sanu@gmail.com
+description: >
+  My ramblings on building Software Products
+baseurl: ""
+url: "http://sandhyaagarwal.github.io"
+twitter_username: sanutweets
+github_username:  sandhyaagarwal
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
