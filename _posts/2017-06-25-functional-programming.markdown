@@ -3,6 +3,7 @@ layout: post
 title:  "Functional Programming"
 date:   2017-06-25 00:10:45
 categories: Programming
+published:  false
 ---
 ### Elements of functional languages
 ***
@@ -15,4 +16,4 @@ categories: Programming
 * When functions can be returned as values from other functions, just like we return other primitive types and objects
 * When functions can be created inside other functions, just like local variables can be created inside other functions
 * When functions can be defined without giving them a name ( anonymous functions ), with the ability to define function literals just like integer literals
-* When function calls have no side effects, they take some arguments as inputs and return results. For the same input, they always return the same output, a characteristic known as Referential Transparency, which means that the function / method call can always be replaced with the output returned, without changing the program semantics
+* When function calls have no side effects, they take some arguments as inputs and return results. For the same input, they always return the same output, a characteristic known as [Referential Transparency](https://en.wikipedia.org/wiki/Referential_transparency), which means that the function / method call can always be replaced with the output returned, without changing the program semantics
